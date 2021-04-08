@@ -1,13 +1,11 @@
 package window
 
 import (
-	"Songzhibin/GKit/options"
 	"context"
+	"github.com/Songzhibin/GKit/options"
 	"sync/atomic"
 	"time"
 )
-
-
 
 // SetSize: 设置大小
 func SetSize(size uint) options.Option {

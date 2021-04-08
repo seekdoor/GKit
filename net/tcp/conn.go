@@ -1,7 +1,7 @@
 package tcp
 
 import (
-	"Songzhibin/GKit/cache/buffer"
+	"github.com/Songzhibin/GKit/cache/buffer"
 	"bufio"
 	"crypto/tls"
 	"errors"

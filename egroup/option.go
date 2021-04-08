@@ -1,7 +1,7 @@
 package egroup
 
 import (
-	"Songzhibin/GKit/options"
+	"github.com/Songzhibin/GKit/options"
 	"os"
 	"time"
 )

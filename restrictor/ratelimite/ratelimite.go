@@ -1,7 +1,7 @@
 package ratelimite
 
 import (
-	"Songzhibin/GKit/restrictor"
+	"github.com/Songzhibin/GKit/restrictor"
 	"context"
 	"errors"
 	"github.com/juju/ratelimit"

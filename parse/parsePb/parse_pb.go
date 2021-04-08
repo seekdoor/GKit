@@ -1,7 +1,7 @@
 package parsePb
 
 import (
-	"Songzhibin/GKit/parse"
+	"github.com/Songzhibin/GKit/parse"
 	"bytes"
 	"github.com/emicklei/proto"
 	"io/ioutil"

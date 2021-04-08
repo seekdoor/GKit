@@ -1,9 +1,9 @@
 package window
 
 import (
-	"Songzhibin/GKit/internal/clock"
-	"Songzhibin/GKit/internal/sys/mutex"
 	"errors"
+	"github.com/Songzhibin/GKit/internal/clock"
+	"github.com/Songzhibin/GKit/internal/sys/mutex"
 	"runtime"
 	"sync/atomic"
 )

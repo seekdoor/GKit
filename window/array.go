@@ -1,8 +1,8 @@
 package window
 
 import (
-	"Songzhibin/GKit/internal/clock"
-	"Songzhibin/GKit/internal/sys/safe"
+	"github.com/Songzhibin/GKit/internal/clock"
+	"github.com/Songzhibin/GKit/internal/sys/safe"
 	"sync/atomic"
 	"unsafe"
 )

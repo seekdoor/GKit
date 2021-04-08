@@ -1,7 +1,7 @@
 package window
 
 import (
-	"github.com/songzhibin97/GKit/internal/sys/mutex"
+	"github.com/songzhibin97/gkit/internal/sys/mutex"
 	"github.com/stretchr/testify/assert"
 	"reflect"
 	"testing"

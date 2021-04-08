@@ -1,8 +1,8 @@
 package window
 
 import (
-	"github.com/songzhibin97/GKit/internal/clock"
-	"github.com/songzhibin97/GKit/internal/sys/safe"
+	"github.com/songzhibin97/gkit/internal/clock"
+	"github.com/songzhibin97/gkit/internal/sys/safe"
 	"sync/atomic"
 	"unsafe"
 )

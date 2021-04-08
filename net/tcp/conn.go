@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"crypto/tls"
 	"errors"
-	"github.com/songzhibin97/GKit/cache/buffer"
+	"github.com/songzhibin97/gkit/cache/buffer"
 	"io"
 	"net"
 	"time"

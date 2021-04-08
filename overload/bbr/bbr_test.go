@@ -1,9 +1,9 @@
 package bbr
 
 import (
-	"github.com/songzhibin97/GKit/internal/stat"
-	"github.com/songzhibin97/GKit/options"
-	"github.com/songzhibin97/GKit/overload"
+	"github.com/songzhibin97/gkit/internal/stat"
+	"github.com/songzhibin97/gkit/options"
+	"github.com/songzhibin97/gkit/overload"
 	"context"
 	"fmt"
 	"github.com/stretchr/testify/assert"

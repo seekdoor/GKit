@@ -1,7 +1,7 @@
 package pool
 
 import (
-	"github.com/songzhibin97/GKit/options"
+	"github.com/songzhibin97/gkit/options"
 	"context"
 	"errors"
 	"time"

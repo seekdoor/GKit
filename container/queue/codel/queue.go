@@ -1,8 +1,8 @@
 package codel
 
 import (
-	"github.com/songzhibin97/GKit/options"
-	"github.com/songzhibin97/GKit/overload/bbr"
+	"github.com/songzhibin97/gkit/options"
+	"github.com/songzhibin97/gkit/overload/bbr"
 	"context"
 	"math"
 	"sync"

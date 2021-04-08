@@ -2,8 +2,8 @@ package egroup
 
 import (
 	"context"
-	"github.com/songzhibin97/GKit/goroutine"
-	"github.com/songzhibin97/GKit/options"
+	"github.com/songzhibin97/gkit/goroutine"
+	"github.com/songzhibin97/gkit/options"
 	"os"
 	"os/signal"
 	"syscall"

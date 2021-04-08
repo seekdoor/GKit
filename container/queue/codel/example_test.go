@@ -1,7 +1,7 @@
 package codel
 
 import (
-	"github.com/songzhibin97/GKit/overload/bbr"
+	"github.com/songzhibin97/gkit/overload/bbr"
 	"context"
 )
 

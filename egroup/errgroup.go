@@ -2,7 +2,7 @@ package egroup
 
 import (
 	"context"
-	"github.com/Songzhibin/GKit/goroutine"
+	"github.com/songzhibin97/GKit/goroutine"
 	"sync"
 )
 

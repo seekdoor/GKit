@@ -1,7 +1,7 @@
 package window
 
 import (
-	"github.com/Songzhibin/GKit/internal/clock"
+	"github.com/songzhibin97/GKit/internal/clock"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 	"sync/atomic"

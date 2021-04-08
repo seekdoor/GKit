@@ -1,7 +1,7 @@
 package parseGo
 
 import (
-	"github.com/Songzhibin/GKit/parse"
+	"github.com/songzhibin97/GKit/parse"
 	"fmt"
 	"go/ast"
 	"go/parser"

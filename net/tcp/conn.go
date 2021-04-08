@@ -1,10 +1,10 @@
 package tcp
 
 import (
-	"github.com/Songzhibin/GKit/cache/buffer"
 	"bufio"
 	"crypto/tls"
 	"errors"
+	"github.com/songzhibin97/GKit/cache/buffer"
 	"io"
 	"net"
 	"time"

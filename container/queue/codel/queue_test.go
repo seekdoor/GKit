@@ -1,7 +1,7 @@
 package codel
 
 import (
-	"github.com/Songzhibin/GKit/overload/bbr"
+	"github.com/songzhibin97/GKit/overload/bbr"
 	"context"
 	"fmt"
 	"sync"

@@ -1,9 +1,9 @@
 package bbr
 
 import (
-	"github.com/Songzhibin/GKit/middleware"
-	"github.com/Songzhibin/GKit/options"
-	"github.com/Songzhibin/GKit/overload"
+	"github.com/songzhibin97/GKit/middleware"
+	"github.com/songzhibin97/GKit/options"
+	"github.com/songzhibin97/GKit/overload"
 	"context"
 )
 

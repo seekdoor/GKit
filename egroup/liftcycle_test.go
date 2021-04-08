@@ -3,7 +3,7 @@ package egroup
 import (
 	"context"
 	"fmt"
-	"github.com/Songzhibin/GKit/goroutine"
+	"github.com/songzhibin97/GKit/goroutine"
 	"net/http"
 	"testing"
 )

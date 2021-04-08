@@ -1,7 +1,7 @@
 package parseGo
 
 import (
-	"github.com/Songzhibin/GKit/cache/buffer"
+	"github.com/songzhibin97/GKit/cache/buffer"
 	"errors"
 	"fmt"
 	"go/ast"

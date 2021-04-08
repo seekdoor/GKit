@@ -1,8 +1,8 @@
 package pool
 
 import (
-	"github.com/Songzhibin/GKit/options"
-	"github.com/Songzhibin/GKit/timeout"
+	"github.com/songzhibin97/GKit/options"
+	"github.com/songzhibin97/GKit/timeout"
 	"container/list"
 	"context"
 	"sync"

@@ -2,7 +2,7 @@ package window
 
 import (
 	"context"
-	"github.com/Songzhibin/GKit/options"
+	"github.com/songzhibin97/GKit/options"
 	"sync/atomic"
 	"time"
 )

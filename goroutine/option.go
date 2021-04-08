@@ -1,8 +1,8 @@
 package goroutine
 
 import (
-	"github.com/Songzhibin/GKit/log"
-	"github.com/Songzhibin/GKit/options"
+	"github.com/songzhibin97/GKit/log"
+	"github.com/songzhibin97/GKit/options"
 	"time"
 )
 

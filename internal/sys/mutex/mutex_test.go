@@ -1,7 +1,7 @@
 package mutex
 
 import (
-	"github.com/Songzhibin/GKit/internal/clock"
+	"github.com/songzhibin97/GKit/internal/clock"
 	"runtime"
 	"sync"
 	"testing"
